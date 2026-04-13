@@ -102,7 +102,6 @@ with col2:
     st.write("- Optimization")
     st.write("- Time series analysis")
     st.write("- Technical problem-solving")
-    st.write("- AI tools and automation")
 
 st.markdown("---")
 
